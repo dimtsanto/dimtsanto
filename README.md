@@ -1,8 +1,7 @@
 **Hello, I’m Dimitris**.
 
-I’m a **Mathematics major** with a deep interest in **programming** and **problem-solving**.
+I’m a **Mathematics major** with a deep interest in **programming**.
 
-Currently, I'm learning SQL and continuing to refine my skills in Python and C.
 
 <!---
 dimtsanto/dimtsanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
